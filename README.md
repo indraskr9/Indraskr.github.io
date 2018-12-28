@@ -10,4 +10,4 @@ Github repo for Indraskr's Website
 3. Check at [http://your-user-name.github.com](http://your-user-name.github.com)
 4. Start making changes!
 
-> Don't forget to star the repo. :stuck_out_tongue_winking_eye:
+> Don't forget to star the repo. :White Medium Star:
