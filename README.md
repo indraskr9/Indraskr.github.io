@@ -1,4 +1,4 @@
-# Indraskr.github.io
+# Indraskr.tk
 Static github page 
 > [OPEN MY SITE](http://indraskr.tk)
 
