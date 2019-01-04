@@ -7,7 +7,7 @@ Github repo for Indraskr's Website
 # How to get your own?
 1. Fork the repo
 2. Rename the repo as `your-user-name.github.com`
-3.Head to the Settings tab on top right and enable github page by selecting branch and you're good to go
+3. Head to the Settings tab on top right and enable github page by selecting branch and you're good to go
 4. Check at [http://your-user-name.github.com](http://your-user-name.github.com)
 5. Start making changes!
 
