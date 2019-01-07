@@ -1,7 +1,7 @@
 # Indraskr.tk
 Static github page 
-> [OPEN MY SITE](http://indraskr.tk)
-<a href="https://google.in">Google</a>
+> <a href="http://indraskr.tk" target="_blank">OPEN MY SITE</a>
+
 Github repo for Indraskr's Website
 
 # How to get your own?
