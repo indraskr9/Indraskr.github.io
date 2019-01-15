@@ -1,6 +1,9 @@
 # Indraskr.tk
 Static github page 
-> <a href="http://indraskr.tk" target="_blank">OPEN MY SITE</a>
+> <a href="http://indraskr.tk" target="_blank">**OPEN MY SITE** </a>
+
+> [**DOWNLOAD APP** ](https://github.com/indraskr9/Indraskr.github.io/releases/download/v1.0/Indraskr.apk)
+:smiley:
 
 Github repo for Indraskr's Website
 
