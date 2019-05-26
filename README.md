@@ -5,7 +5,6 @@ Static github page
 > [**DOWNLOAD APP** ](https://github.com/indraskr9/Indraskr.github.io/releases/download/v1.0/Indraskr.apk)
 :smiley:
 
-Github repo for Indraskr's Website
 
 # How to get your own?
 1. Fork the repo
